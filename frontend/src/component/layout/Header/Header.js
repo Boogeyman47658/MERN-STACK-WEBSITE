@@ -6,7 +6,7 @@ const options = {
   burgerColor: "#eb4034",
   burgerColorHover: "#eb4034",
   logo,
-  logoWidth: "15vmax",
+  logoWidth: "10vmax",
   navColor1: "white",
   logoHoverSize: "10px",
   logoHoverColor: "#eb4034",
